@@ -1,4 +1,7 @@
-Sublime-JS-Snippets
-===================
+# Sublime-JS-Snippets
 
-Sublime Text 2 Javascript snippets
+This is an ongoing collection of javascript snippets for Sublime text 2.
+
+#### console-log.sublime-snippet `log`
+
+Insert a `console.log();` statement.
