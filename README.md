@@ -17,3 +17,11 @@ Insert a `console.log('var :', var);` statement for a particular variable.
 #### for (var i = 0; i < Array.length; i++) `for`
 
 Inserts a basic for loop that counts up from 0.
+
+# Frameworks
+
+## Backbone
+
+#### Backbone.View `view`
+
+Inserts a very basic Backbone view with initialize and render functions.

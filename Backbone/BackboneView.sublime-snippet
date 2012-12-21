@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+var ${1:ViewName} = Backbone.View.extend({
+  initialize: function() {
+
+  },
+
+  render: function() {
+
+  }
+});
+]]></content>
+  <tabTrigger>view</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
