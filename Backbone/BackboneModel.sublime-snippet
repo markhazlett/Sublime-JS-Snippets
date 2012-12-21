@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+var ${1:ModelName} = Backbone.Model.extend({
+  initialize: function() {
+
+  } 
+});
+]]></content>
+  <tabTrigger>model</tabTrigger>
+  <scope>source.js</scope>
+  <description>Backbone Model</description>
+</snippet>
