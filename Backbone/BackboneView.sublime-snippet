@@ -1,6 +1,10 @@
 <snippet>
   <content><![CDATA[
 var ${1:ViewName} = Backbone.View.extend({
+  events: {
+
+  },
+  
   initialize: function() {
 
   },

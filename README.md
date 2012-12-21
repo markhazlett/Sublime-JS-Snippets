@@ -27,3 +27,7 @@ Inserts a basic for loop that counts up from 0.
 #### Backbone.View `view`
 
 Inserts a very basic Backbone view with initialize and render functions.
+
+#### Backbone.Model `model`
+
+Inserts a very basic Backbone model with an initialize function.
