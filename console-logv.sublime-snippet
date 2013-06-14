@@ -2,6 +2,6 @@
   <content><![CDATA[
 console.log('${1:$TM_SELECTED_TEXT}: ', $1);
 ]]></content>
-  <tabTrigger>log</tabTrigger>
+  <tabTrigger>logv</tabTrigger>
   <scope>source.js</scope>
 </snippet>
